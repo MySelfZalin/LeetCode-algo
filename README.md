@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0771-jewels-and-stones) |
 ## Array
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
@@ -69,4 +72,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
