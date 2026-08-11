@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0771-jewels-and-stones](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0771-jewels-and-stones) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0771-jewels-and-stones) |
 ## Array
 |  |
@@ -59,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
