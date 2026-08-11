@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
