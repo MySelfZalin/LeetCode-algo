@@ -8,15 +8,15 @@ class Solution:
         def check_queue():
             while queue:
                 r, c = queue.popleft()
-                if r < 0 or c < 0 or r >= rows or c >= columns:
-                    continue
 
                 if grid[r][c] == "1":
                     grid[r][c] = "#"
-                    queue.append((r+1,c))
-                    queue.append((r-1,c))
-                    queue.append((r,c+1))
-                    queue.append((r,c-1))
+                    
+                    for dr, dc in [(1,0), (-1,0), (0,1), (0,-1)]:
+                        dr, dc = r+dr, c+dc
+                        if 0 <= dr < rows and 0 <= dc < columns:
+                            queue.append((dr, dc))
+
 
         for row in range(rows):
             for column in range(columns):
