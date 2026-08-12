@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
+| [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,8 +94,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
