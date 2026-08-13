@@ -41,10 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 ## Bit Manipulation
