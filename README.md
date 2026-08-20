@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
+| [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
