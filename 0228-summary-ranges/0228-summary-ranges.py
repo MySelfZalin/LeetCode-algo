@@ -2,18 +2,26 @@ class Solution:
     def summaryRanges(self, nums: List[int]) -> List[str]:
         if not nums:
             return []
-
-        left = 0
+        
         res = []
+        val1 = nums[0]
+        for i in range(1, len(nums)):
+            if nums[i] == nums[i - 1] + 1:
+                continue
 
-        for right, num in enumerate(nums):
-            if right and num != nums[right - 1] + 1:
-                res.append(f"{nums[left]}->{nums[right-1]}" if right - left > 1 else f"{nums[left]}")
-                left = right
+            if nums[i-1] == val1:
+                res.append(f"{val1}")
+            else:
+                res.append(f"{val1}->{nums[i-1]}")
+            val1 = nums[i]    
 
-        res.append(f"{nums[left]}->{nums[right]}" if right - left > 0 else f"{nums[left]}")
-               
+        if val1 == nums[-1]:
+            res.append(f"{val1}")
+        else:
+            res.append(f"{val1}->{nums[-1]}")
+        
+        return res
 
-        return res         
 
 
+        
