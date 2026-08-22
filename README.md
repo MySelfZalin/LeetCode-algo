@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0287-find-the-duplicate-number) |
 ## Queue
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -139,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
