@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
