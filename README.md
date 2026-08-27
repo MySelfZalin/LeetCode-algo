@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0287-find-the-duplicate-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
 ## Stack
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
 ## Design
 |  |
 | ------- |
@@ -183,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
