@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0986-interval-list-intersections) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0287-find-the-duplicate-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0986-interval-list-intersections) |
 | [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Dynamic Programming
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
