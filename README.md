@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0986-interval-list-intersections) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MySelfZalin/LeetCode-algo/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0771-jewels-and-stones) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MySelfZalin/LeetCode-algo/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Array
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0986-interval-list-intersections) |
 | [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MySelfZalin/LeetCode-algo/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
 | ------- |
