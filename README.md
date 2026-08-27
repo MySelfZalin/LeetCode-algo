@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
+| [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
 | [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0094-binary-tree-inorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
 | [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0101-symmetric-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
 | [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -168,4 +172,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
