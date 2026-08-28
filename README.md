@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0986-interval-list-intersections) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
