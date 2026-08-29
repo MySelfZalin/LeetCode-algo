@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0844-backspace-string-compare) |
+| [3110-score-of-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/3110-score-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
