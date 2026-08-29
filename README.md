@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0206-reverse-linked-list) |
 ## Recursion
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0023-merge-k-sorted-lists) |
 | [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
 ## Prefix Sum
 |  |
@@ -217,4 +219,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0146-lru-cache) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
