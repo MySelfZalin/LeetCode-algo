@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0763-partition-labels) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0146-lru-cache) |
 | [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
 ## Iterator
 |  |
@@ -209,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0056-merge-intervals) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
