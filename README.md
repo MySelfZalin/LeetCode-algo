@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0345-reverse-vowels-of-a-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
