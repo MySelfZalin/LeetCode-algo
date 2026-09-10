@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0387-first-unique-character-in-a-string) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0101-symmetric-tree) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
