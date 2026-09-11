@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0986-interval-list-intersections) |
 | [1094-car-pooling](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1094-car-pooling) |
+| [1254-number-of-closed-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1254-number-of-closed-islands) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/MySelfZalin/LeetCode-algo/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0419-battleships-in-a-board) |
 | [0572-subtree-of-another-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
+| [1254-number-of-closed-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -112,16 +114,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
+| [1254-number-of-closed-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0419-battleships-in-a-board) |
+| [1254-number-of-closed-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/1254-number-of-closed-islands) |
 ## Binary Search
 |  |
 | ------- |
