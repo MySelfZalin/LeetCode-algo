@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0200-number-of-islands) |
 | [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
 | [0419-battleships-in-a-board](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0419-battleships-in-a-board) |
+| [0572-subtree-of-another-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0341-flatten-nested-list-iterator) |
+| [0572-subtree-of-another-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0572-subtree-of-another-tree) |
 | [0938-range-sum-of-bst](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0938-range-sum-of-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0079-word-search) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/MySelfZalin/LeetCode-algo/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
