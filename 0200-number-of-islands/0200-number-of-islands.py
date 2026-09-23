@@ -2,26 +2,25 @@ class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
         rows = len(grid)
         columns = len(grid[0])
-        queue = collections.deque()
-        islands = 0
+        vectors = [(0, 1), (0, -1), (1, 0), (-1, 0)]
+
+        def in_range(r, c):
+            return 0 <= r < rows and 0 <= c < columns
+
+        def fill(r, c):
+            grid[r][c] = "0"
+
+            for dr, dc in vectors:
+                nr, nc = dr + r, dc + c
+                if in_range(nr, nc) and grid[nr][nc] == "1":
+                    fill(nr, nc)
+
         
-        def check_queue():
-            while queue:
-                r, c = queue.popleft()
-
+        res = 0
+        for r in range(rows):
+            for c in range(columns):
                 if grid[r][c] == "1":
-                    grid[r][c] = "#"
-                    
-                    for dr, dc in [(1,0), (-1,0), (0,1), (0,-1)]:
-                        dr, dc = r+dr, c+dc
-                        if 0 <= dr < rows and 0 <= dc < columns:
-                            queue.append((dr, dc))
-
-
-        for row in range(rows):
-            for column in range(columns):
-                if grid[row][column] == "1":
-                    islands += 1
-                    queue.append((row,column))
-                    check_queue()
-        return islands            
+                    res += 1
+                    fill(r, c)
+        
+        return res
